@@ -1,0 +1,14 @@
+# Avoid pushing model files
+**/*.safetensors
+**/*.bin
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Jupyter/IPython checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
