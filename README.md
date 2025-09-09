@@ -1,17 +1,17 @@
 # GenAI_Resume_Enhancer
 A combined project that uses Generative AI to enhance resumes and a powerful parser to extract key information.
 
-Features
+#Features#
 AI-Powered Suggestions: Get intelligent feedback to improve your resume's content.
 
-Resume Parsing: Automatically extract structured data from any resume.
+#Resume Parsing: Automatically extract structured data from any resume.
 
-Unified Workflow: A single application for both enhancement and parsing.
+#Unified Workflow#: A single application for both enhancement and parsing.
 
-Getting Started
+#Getting Started#
 Clone the repo: git clone https://github.com/sakshivedi-1/GenAI_Resume_Enhancer_Model.git
 
-Install dependencies:
+#Install dependencies#:
 
 cd Resume-Enhancer
 
